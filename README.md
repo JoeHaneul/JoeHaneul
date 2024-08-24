@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoeHaneul
+- 👋 Hi, I’m Diya..
 - 👀 I’m interested in math and coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on github
